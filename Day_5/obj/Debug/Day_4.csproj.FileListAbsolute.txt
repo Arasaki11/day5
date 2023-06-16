@@ -1,0 +1,31 @@
+C:\Users\utkin\OneDrive\Рабочий стол\Day_4\Day_4\bin\Debug\Day_4.exe.config
+C:\Users\utkin\OneDrive\Рабочий стол\Day_4\Day_4\bin\Debug\Day_4.exe
+C:\Users\utkin\OneDrive\Рабочий стол\Day_4\Day_4\bin\Debug\Day_4.pdb
+C:\Users\utkin\OneDrive\Рабочий стол\Day_4\Day_4\obj\Debug\Day_4.csproj.AssemblyReference.cache
+C:\Users\utkin\OneDrive\Рабочий стол\Day_4\Day_4\obj\Debug\Day_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\utkin\OneDrive\Рабочий стол\Day_4\Day_4\obj\Debug\Day_4.csproj.CoreCompileInputs.cache
+C:\Users\utkin\OneDrive\Рабочий стол\Day_4\Day_4\obj\Debug\Day_4.exe
+C:\Users\utkin\OneDrive\Рабочий стол\Day_4\Day_4\obj\Debug\Day_4.pdb
+C:\Users\utkin\source\repos\Day_3\Day_4\Day_4\bin\Debug\Day_4.exe.config
+C:\Users\utkin\source\repos\Day_3\Day_4\Day_4\bin\Debug\Day_4.exe
+C:\Users\utkin\source\repos\Day_3\Day_4\Day_4\bin\Debug\Day_4.pdb
+C:\Users\utkin\source\repos\Day_3\Day_4\Day_4\obj\Debug\Day_4.csproj.AssemblyReference.cache
+C:\Users\utkin\source\repos\Day_3\Day_4\Day_4\obj\Debug\Day_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\utkin\source\repos\Day_3\Day_4\Day_4\obj\Debug\Day_4.csproj.CoreCompileInputs.cache
+C:\Users\utkin\source\repos\Day_3\Day_4\Day_4\obj\Debug\Day_4.exe
+C:\Users\utkin\source\repos\Day_3\Day_4\Day_4\obj\Debug\Day_4.pdb
+C:\Users\Студент\Desktop\Day_4\Day_4\bin\Debug\Day_4.exe.config
+C:\Users\Студент\Desktop\Day_4\Day_4\bin\Debug\Day_4.exe
+C:\Users\Студент\Desktop\Day_4\Day_4\bin\Debug\Day_4.pdb
+C:\Users\Студент\Desktop\Day_4\Day_4\obj\Debug\Day_4.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Day_4\Day_4\obj\Debug\Day_4.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Day_4\Day_4\obj\Debug\Day_4.exe
+C:\Users\Студент\Desktop\Day_4\Day_4\obj\Debug\Day_4.pdb
+D:\практика\educational_practice\Day_4\Day_4\obj\Debug\Day_4.csproj.AssemblyReference.cache
+D:\практика\educational_practice\Day_4\Day_4\obj\Debug\Day_4.csproj.SuggestedBindingRedirects.cache
+D:\практика\educational_practice\Day_4\Day_4\obj\Debug\Day_4.csproj.CoreCompileInputs.cache
+D:\практика\educational_practice\Day_4\Day_4\obj\Debug\Day_4.exe
+D:\практика\educational_practice\Day_4\Day_4\obj\Debug\Day_4.pdb
+D:\практика\educational_practice\Day_4\Day_4\bin\Debug\Day_4.exe.config
+D:\практика\educational_practice\Day_4\Day_4\bin\Debug\Day_4.exe
+D:\практика\educational_practice\Day_4\Day_4\bin\Debug\Day_4.pdb

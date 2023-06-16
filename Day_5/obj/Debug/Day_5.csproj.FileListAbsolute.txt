@@ -1,0 +1,8 @@
+D:\практика\educational_practice\Day_5\Day_4\bin\Debug\Day_4.exe.config
+D:\практика\educational_practice\Day_5\Day_4\bin\Debug\Day_4.exe
+D:\практика\educational_practice\Day_5\Day_4\bin\Debug\Day_4.pdb
+D:\практика\educational_practice\Day_5\Day_4\obj\Debug\Day_5.csproj.AssemblyReference.cache
+D:\практика\educational_practice\Day_5\Day_4\obj\Debug\Day_5.csproj.SuggestedBindingRedirects.cache
+D:\практика\educational_practice\Day_5\Day_4\obj\Debug\Day_5.csproj.CoreCompileInputs.cache
+D:\практика\educational_practice\Day_5\Day_4\obj\Debug\Day_4.exe
+D:\практика\educational_practice\Day_5\Day_4\obj\Debug\Day_4.pdb
